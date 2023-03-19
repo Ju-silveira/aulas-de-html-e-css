@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" contente="width=device-width,initial-scale=1.0">
+    <link rel="shortcut icon" href="iconi.ico" type="image/x-icom">
+    <title> julio cesar </title>
+</head>
+<body>
+    <h1> quem sou eu ?</h1>
+    <p>me chamo julio cesar estou estudando programação, mais demsemvouvimento web </p>
+    <img src="images.jpeg" alt"esa e uma represemtação da morte">
+    <p>como me achar</p>
+    <p><a href="https://github.com/Ju-silveira/exerc-cio-python" target="_blank" rel="external"> github</a></p>
+</body>
+
